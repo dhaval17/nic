@@ -1,3 +1,1 @@
-#README file for NIC
-Abcd
-more
+Fill Details here
